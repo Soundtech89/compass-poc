@@ -1,9 +1,9 @@
 name: compass-poc
-id: 'ari:cloud:compass:205098b3-b84c-4b4b-bf23-4169281861d4:component/d2fe4d6e-4ea3-47a8-ac4e-3980813a96c6/a32c0544-e6d7-4757-9010-2430c0650ccb'
-description: 'Testing Config as code'
+id: 'ari:cloud:compass:575ee10b-463c-48a6-b2de-c7c562e82154:component/59e82d4b-f16b-4257-a14a-359a07f9f851/4947e087-6c3f-43e7-855c-c4c486638f30'
+description: 'Testing if this file updates the component'
 configVersion: 1
-typeId: LIBRARY
-ownerId: 'ari:cloud:identity::team/86ff0980-c404-4dca-9982-21bd1977c236'
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/5d48af56-d4c0-45d1-87ce-09629974b92e'
 fields:
   tier: 4
 links:

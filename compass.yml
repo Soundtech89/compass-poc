@@ -1,6 +1,6 @@
 name: compass-poc
 id: 'ari:cloud:compass:575ee10b-463c-48a6-b2de-c7c562e82154:component/59e82d4b-f16b-4257-a14a-359a07f9f851/4947e087-6c3f-43e7-855c-c4c486638f30'
-description: 'Testing if this file updates the component'
+description: Testing if this file updates the component
 configVersion: 1
 typeId: SERVICE
 ownerId: 'ari:cloud:identity::team/5d48af56-d4c0-45d1-87ce-09629974b92e'

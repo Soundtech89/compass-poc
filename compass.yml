@@ -1,6 +1,6 @@
 name: compass-poc
-id: 'ari:cloud:compass:575ee10b-463c-48a6-b2de-c7c562e82154:component/59e82d4b-f16b-4257-a14a-359a07f9f851/4947e087-6c3f-43e7-855c-c4c486638f30'
-description: Testing if this file updates the component
+id: 'ari:cloud:compass:575ee10b-463c-48a6-b2de-c7c562e82154:component/59e82d4b-f16b-4257-a14a-359a07f9f851/4100b03c-55a0-40c3-92d4-40f48976a94b'
+description: Testing Config as code by adding description
 configVersion: 1
 typeId: SERVICE
 ownerId: 'ari:cloud:identity::team/5d48af56-d4c0-45d1-87ce-09629974b92e'
@@ -9,9 +9,10 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: 'https://github.com/Soundtech89/compass-poc'
+    url: 'https://github.com/jdwlynx/compass-poc'
 relationships: {}
-labels: null
+labels:
+  - 'source:github'
 customFields: null
 
 # Learn more about formatting compass.yml:
